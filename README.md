@@ -1,5 +1,7 @@
 # The Web Developer Bootcamp
 
-## Author
+Projects created on my journey on the bootcamp.
 
-* **Luis Thiago** - [LThiago](https://github.com/LThiago)
+---
+
+Made by [Luis Thiago](https://github.com/LThiago)
